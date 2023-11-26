@@ -1,4 +1,9 @@
 # Stockmarket_analysis
+
+## Project Overview
+- **Project Title**: Stockmarket Analysis
+- **Author**: Ishwarya Keerthivasan
+
 ## Abstract
 The project delves deeply into dissecting Amazon's stock market performance using yfinance and statistical methodologies. The analysis scrutinizes both short and long-term Simple Moving Averages (SMA), signaling potential investment paths upon observing SMA intersections. A general guideline recommends a bullish stance when the shorter SMA eclipses the longer SMA. Furthermore, it conducts regression analysis on the SMA-50, uncovering an upward trend in Amazon's stock prices. Ultimately, the project furnishes a comprehensive perspective on Amazon's stock market behavior, equipping investors with valuable insights to inform potential investment strategies.
 
