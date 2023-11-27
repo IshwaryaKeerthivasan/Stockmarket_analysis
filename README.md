@@ -9,11 +9,6 @@ Analyzing Amazon's stock market performance using yfinance and statistical tools
 ## Motivation
 Unlocking investment potential through insightful analysis of Amazon's stock behavior with data-driven precision
 
-## Package installation commands
-* pip install TA-Lib
-* pip install yfinance
-* pip install plotly
-
 ## Regression analysis 
 <img width="858" alt="image" src="https://github.com/IshwaryaKeerthivasan/Stockmarket_analysis/assets/92322280/8a43bc69-6a7d-497e-b86e-b9ee1c1b4a0f">
 
