@@ -133,17 +133,3 @@ fig.update_layout(
     showlegend=True
 )
 fig.show()
-
-
-
-
-
-# SMA - 50 Regression analysis to understand  whether the stock prizes are in an increasing trend or decreasing trend.
-X = historical_data[['SMA_50']]
-X = sm.add_constant(X)
-y = historical_data['Close']
-model = sm.OLS(y, X).fit()
-print(model.summary())
-fig = px.scatter(historical_data, x='SMA_50', y='Close', trendline="ols", title="Scatter Plot with Regression Line")
-fig.show()
-
