@@ -28,7 +28,7 @@ Install TA-Lib in colab
   !pip install TA-Lib
 ```
 
-## Stock price analysis of Amazon
+## Stock price analysis of Amazon [50-Day SMA and 200-Day SMA]
 ![image](https://github.com/vishnu1002/Stockmarket_analysis/assets/145321614/b39e402d-d61e-40a3-912f-dcde5bb6863c)
 
 ## Profit and Loss for last 6 months
