@@ -1,7 +1,7 @@
 # Amazon Stockmarket Analysis
 
 ## Abstract
-The project delves deeply into dissecting Amazon's stock market performance using yfinance and statistical methodologies. The analysis scrutinizes both short and long-term Simple Moving Averages (SMA), signaling potential investment paths upon observing SMA intersections. A general guideline recommends a bullish stance when the shorter SMA eclipses the longer SMA. Furthermore, it conducts regression analysis on the SMA-50, uncovering an upward trend in Amazon's stock prices. Ultimately, the project furnishes a comprehensive perspective on Amazon's stock market behavior, equipping investors with valuable insights to inform potential investment strategies.
+The project delves deeply into dissecting Amazon's stock market performance using yfinance and statistical methodologies. The analysis scrutinizes short- and long-term Simple Moving Averages (SMA), signaling potential investment paths upon observing SMA intersections. A general guideline recommends a bullish stance when the shorter SMA eclipses the longer SMA. Furthermore, it conducts regression analysis on the SMA-50, uncovering an upward trend in Amazon's stock prices. Ultimately, the project furnishes a comprehensive perspective on Amazon's stock market behavior, equipping investors with valuable insights to inform potential investment strategies.
 
 ## Problem Definition
 Analyzing Amazon's stock market performance using yfinance and statistical tools to identify trends and potential investment opportunities based on moving averages and regression analysis.
@@ -31,7 +31,7 @@ Install TA-Lib in colab
 ## Stock price analysis of Amazon [50-Day SMA and 200-Day SMA]
 ![image](https://github.com/vishnu1002/Stockmarket_analysis/assets/145321614/b39e402d-d61e-40a3-912f-dcde5bb6863c)
 
-## Profit and Loss for last 6 months
+## Profit and Loss for the last 6 months
 ![image (1)](https://github.com/vishnu1002/Stockmarket_analysis/assets/145321614/6cee6b95-ce91-4f10-8ab8-f66a2d449d0c)
 
 ## Regression analysis for closing stock of Amazon:
