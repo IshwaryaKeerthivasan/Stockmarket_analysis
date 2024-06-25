@@ -28,6 +28,12 @@ Install TA-Lib in colab
   !pip install TA-Lib
 ```
 
+## Stock price analysis of Amazon
+![image](https://github.com/vishnu1002/Stockmarket_analysis/assets/145321614/b39e402d-d61e-40a3-912f-dcde5bb6863c)
+
+## Profit and Loss for last 6 months
+![image (1)](https://github.com/vishnu1002/Stockmarket_analysis/assets/145321614/6cee6b95-ce91-4f10-8ab8-f66a2d449d0c)
+
 ## Regression analysis for closing stock of Amazon:
 <img width="858" alt="image" src="https://github.com/IshwaryaKeerthivasan/Stockmarket_analysis/assets/92322280/8a43bc69-6a7d-497e-b86e-b9ee1c1b4a0f">
 
